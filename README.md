@@ -72,13 +72,6 @@ flutter pub get
 ```bash
 flutter run
 ```
-
-## 📸 Screenshots
-<img width="1080" height="2400" alt="Screenshot_20260813_225253" src="https://github.com/user-attachments/assets/8f37c903-250e-4079-9677-8c021dc3f993" />
-
-
-
-
 ## 📌 Folder Description
 
 | Folder | Description |
